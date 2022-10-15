@@ -4,8 +4,59 @@
 
 I am Tarun Kumar Arcot. I like to code. I am very excited to learn any programming language and tech stack. I am open to change and support Open Source Community. I am willing to provide my views and experiences to the people around me. I have learnt Java core with hibernate and spring boot. I have learnt htm5/CSS and php. I am comfortable with JavaScript also. I have some knowledge about python. I am quick learner and willing to contribute how ever I can. 
 
-Skills: Java core /HIBERNATE / SPRING BOOT /MySQL/ ANGULAR / REACT / JS / HTML / CSS /PHP
+##### Skills:- 
 
+## Programming Languages:  (1st rank for knowing the language the best )
+  ●Java, 
+  ●SQL,
+  ●HTML, 
+  ●CSS, 
+  ●JavaScript, 
+  ●Python, 
+  ●R, 
+  ●Scala, 
+  ●Hadoop, 
+  ●Spark
+
+## Operating Environment familiarity: 
+  ●Windows, 
+  ●Linux 
+
+## Packages: 
+  ●MongoDB, 
+  ●MySQL, 
+  ●PostgreSQL, 
+  ●Nodejs, 
+  ●ReactJS, 
+  ●Angular
+  ●Spring boot,
+  ●pandas 
+
+## integrated development environment : 
+  ●VSCODE, 
+  ●Eclipse, 
+  ●IntelliJ IDEA, 
+  ●Sublime text 3, 
+  ●Jupiter Notebook, 
+  ●Google colab,
+  ●R Studio
+
+## Collaboration tools: 
+  GitHub
+
+## Other Software: 
+  ●Excel, 
+  ●PowerPoint, 
+  ●Word Prodcessing
+
+## Areas of Interest 
+●	Technology updates - eg: laptops 💻, mobile 📱, and so on
+●	Gym and fitness - 🤸‍♀️
+●	Travelling - 🚕, 📷, 🚆, ✈
+
+#### Certification:-
+●	Entrepreneurship Essentials -NPTEL  
+●	Data Analytics using python -NPTEL 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tarun-Kumar-Arcot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//tarun-kumar-arcot-81b119168//)  
