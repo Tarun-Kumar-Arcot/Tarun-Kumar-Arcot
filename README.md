@@ -1,4 +1,4 @@
-### Hi there 👋, I am Tarun here
+### Hi there 👋, Tarun here
 #### Java Full Stack and web and app developer enthusiast
 ![Java Full Stack and web and app developer enthusiast]([![Tarun's GitHub Banner]![Blue and Purple Casual Corporate App Development Startup Banner Landscape](https://user-images.githubusercontent.com/90604026/195963211-61c30142-a7e6-4c83-821c-9f94c58d787f.png)
 
@@ -8,7 +8,7 @@ Skills: Java core /HIBERNATE / SPRING BOOT /MySQL/ ANGULAR / REACT / JS / HTML /
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tarun-Kumar-Arcot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tarun-kumar-arcot-81b119168//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](reachout2tarun@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tarun-Kumar-Arcot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tarun-kumar-arcot-81b119168//)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tarun-Kumar-Arcot)  
 
