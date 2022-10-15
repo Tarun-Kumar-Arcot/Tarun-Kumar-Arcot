@@ -1,11 +1,15 @@
-### Hi there 👋
-Get in touch with me 
-I am Tarun Kumar Arcot. I like to code. I am very excited to learn any programming language and tech stack. I am open to change and support Open Source Community. I am willing to provide my views and experiences to the people around me. I have learnt Java core with hibernate and spring boot. I have learnt htm5/CSS and php. I am comfortable with JavaScript also. I have some knowledge about python. I am quick learner and willing to contribute how ever I can. 
-## Hey 👋, This is Hi Tarun here
-[![Gmail Badge](https://img.shields.io/badge/-reachout2tarun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:reachout2tarun@gmail.com)](mailto:reachout2tarun@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/tarunkumar-arcot-81b119168/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/tarunkumar-arcot-81b119168//)](https://www.linkedin.com/in/https://www.linkedin.com/in/tarunkumar-arcot-81b119168//) [![Github Badge](https://img.shields.io/badge/-TarunKumar-Arcot-grey?style=flat&logo=github&logoColor=white&link=https://github.com/TarunKumar-Arcot/)](https://www.github.com/TarunKumar-Arcot/) <p align='left'>I am Tarun Kumar Arcot. I like to code. I am very excited to learn any programming language and tech stack. I am open to change and support Open Source Community. I am willing to provide my views and experiences to the people around me. I have learnt Java core with hibernate and spring boot. I have learnt htm5/CSS and php. I am comfortable with JavaScript also. I have some knowledge about python. I am quick learner and willing to contribute how ever I can.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1icShoK1auHX1gu8O291oVdzczh6bBt8u/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=TarunKumar-Arcot alt=TarunKumar-Arcot /> </p>
+### Hi there 👋, I am Tarun here
+#### Java Full Stack and web and app developer enthusiast
+![Java Full Stack and web and app developer enthusiast]([![Tarun's GitHub Banner]![Blue and Purple Casual Corporate App Development Startup Banner Landscape](https://user-images.githubusercontent.com/90604026/195963211-61c30142-a7e6-4c83-821c-9f94c58d787f.png)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=TarunKumar-Arcot&show_icons=true&include_all_commits=true)](https://github.com/TarunKumar-Arcot/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunKumar-Arcot&layout=compact)](https://github.com/TarunKumar-Arcot/github-readme-stats)
+I am Tarun Kumar Arcot. I like to code. I am very excited to learn any programming language and tech stack. I am open to change and support Open Source Community. I am willing to provide my views and experiences to the people around me. I have learnt Java core with hibernate and spring boot. I have learnt htm5/CSS and php. I am comfortable with JavaScript also. I have some knowledge about python. I am quick learner and willing to contribute how ever I can. 
+
+Skills: Java core /HIBERNATE / SPRING BOOT /MySQL/ ANGULAR / REACT / JS / HTML / CSS /PHP
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tarun-Kumar-Arcot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tarun-kumar-arcot-81b119168//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](reachout2tarun@gmail.com)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tarun-Kumar-Arcot)  
+
+![Profile views](https://gpvc.arturio.dev/Tarun-Kumar-Arcot)  
