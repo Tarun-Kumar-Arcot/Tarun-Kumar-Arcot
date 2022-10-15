@@ -32,7 +32,7 @@ I am Tarun Kumar Arcot. I like to code. I am very excited to learn any programmi
   ●Spring boot,
   ●pandas 
 
-## integrated development environment : 
+## Integrated development environment : 
   ●VSCODE, 
   ●Eclipse, 
   ●IntelliJ IDEA, 
