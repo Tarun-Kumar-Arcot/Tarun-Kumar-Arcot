@@ -42,7 +42,7 @@ I am Tarun Kumar Arcot. I like to code. I am very excited to learn any programmi
   ●R Studio
 
 ## Collaboration tools: 
-  GitHub
+  ●GitHub
 
 ## Other Software: 
   ●Excel, 
@@ -55,8 +55,8 @@ I am Tarun Kumar Arcot. I like to code. I am very excited to learn any programmi
 ●	Travelling - 🚕, 📷, 🚆, ✈
 
 #### Certification:-
-●	Entrepreneurship Essentials -NPTEL  
-●	Data Analytics using python -NPTEL 
+●	Entrepreneurship Essentials -NPTEL(https://drive.google.com/file/d/1ffnlupctd3Z0NwwHVE5mB1f41brhyx_R/view?usp=sharing)
+●	Data Analytics using python -NPTEL(https://drive.google.com/file/d/1-CN_4jg7X7b7eN1yw_OfJqDtnQDat8pE/view?usp=sharing)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tarun-Kumar-Arcot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//tarun-kumar-arcot-81b119168//)  
