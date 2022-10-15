@@ -55,7 +55,7 @@ I am Tarun Kumar Arcot. I like to code. I am very excited to learn any programmi
 ●	Travelling - 🚕, 📷, 🚆, ✈
 
 #### Certification:-
-●	Entrepreneurship Essentials -NPTEL(https://drive.google.com/file/d/1ffnlupctd3Z0NwwHVE5mB1f41brhyx_R/view?usp=sharing)
+●	Entrepreneurship Essentials -NPTEL(https://drive.google.com/file/d/1ffnlupctd3Z0NwwHVE5mB1f41brhyx_R/view?usp=sharing)   
 ●	Data Analytics using python -NPTEL(https://drive.google.com/file/d/1-CN_4jg7X7b7eN1yw_OfJqDtnQDat8pE/view?usp=sharing)
 
 
