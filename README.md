@@ -47,7 +47,7 @@ I am Tarun Kumar Arcot. I like to code. I am very excited to learn any programmi
 ## Other Software: 
   ●Excel, 
   ●PowerPoint, 
-  ●Word Prodcessing
+  ●Word 
 
 ## Areas of Interest 
 ●	Technology updates - eg: laptops 💻, mobile 📱, and so on
