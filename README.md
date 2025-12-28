@@ -1,66 +1,131 @@
-### Hi there 👋, Tarun here
-#### Java Full Stack and web and app developer enthusiast
-![Blue and Purple Casual Corporate App Development Startup Banner Landscape](https://user-images.githubusercontent.com/90604026/195963211-61c30142-a7e6-4c83-821c-9f94c58d787f.png)
+Awesome 👍
+Here’s a **fully customized, recruiter-ready GitHub Profile README** tailored specifically for **you** — your Red Hat background, Kubernetes/OpenShift focus, and DevOps/SRE ambitions.
 
-I am Tarun Kumar Arcot. I like to code. I am very excited to learn any programming language and tech stack. I am open to change and support Open Source Community like Redhat linux and Jboss enterprise server. I am happy to share my views and experiences to the people around me. I love to code in Java core with hibernate and spring boot. I also love html5/CSS/JavaScript and other framework like reactjs, angular and php.  I am developing my skills in python. I am quick learner and willing to contribute how ever I can.
+You can **copy-paste this directly** into a repo named exactly:
 
-##### Skills:- 
+```
+Tarun-Kumar-Arcot
+```
 
-## Programming Languages:  (1st rank for knowing the language the best )
-  ●Java, 
-  ●SQL,
-  ●HTML, 
-  ●CSS, 
-  ●JavaScript, 
-  ●Python, 
-  ●R, 
-  ●Scala, 
-  ●Hadoop, 
-  ●Spark
+and GitHub will auto-render it on your profile.
 
-## Operating Environment familiarity: 
-  ●Windows, 
-  ●Linux 
+---
 
-## Packages: 
-  ●MongoDB, 
-  ●MySQL, 
-  ●PostgreSQL, 
-  ●Nodejs, 
-  ●ReactJS, 
-  ●Angular
-  ●Spring boot,
-  ●pandas 
+# 👋 Hi, I’m Tarun Kumar Arcot
 
-## Integrated development environment : 
-  ●VSCODE, 
-  ●Eclipse, 
-  ●IntelliJ IDEA, 
-  ●Sublime text 3, 
-  ●Jupiter Notebook, 
-  ●Google colab,
-  ●R Studio
+🚀 **DevOps / Cloud-Native Engineer**
+💼 Middleware Engineer @ Red Hat
+🎓 RHCSA • RHCE • CKA • EX188 | OpenShift (DO280 in progress)
 
-## Collaboration tools: 
-  ●GitHub
+I specialize in **Kubernetes, OpenShift, containers, and Red Hat middleware platforms**, with hands-on experience troubleshooting production-grade systems and building cloud-native solutions.
 
-## Other Software: 
-  ●Excel, 
-  ●PowerPoint, 
-  ●Word 
+---
 
-## Areas of Interest 
-●	Technology updates - eg: laptops 💻, mobile 📱, and so on
-●	Gym and fitness - 🤸‍♀️
-●	Travelling - 🚕, 📷, 🚆, ✈
+## 🧑‍💻 About Me
 
-#### Certification:-
-●	Entrepreneurship Essentials -NPTEL(https://drive.google.com/file/d/1ffnlupctd3Z0NwwHVE5mB1f41brhyx_R/view?usp=sharing)   
-●	Data Analytics using python -NPTEL(https://drive.google.com/file/d/1-CN_4jg7X7b7eN1yw_OfJqDtnQDat8pE/view?usp=sharing)
+* 🔧 2.5+ years at **Red Hat** supporting **JBoss EAP, Data Grid (Infinispan), OpenShift & Kubernetes**
+* ☸️ Strong hands-on with **OCP 4.x, CRC, Podman, Helm, Ansible**
+* 📚 Certification-driven learner aiming for **SRE / DevOps / Platform Engineer** roles
+* 🌍 Exploring opportunities in **Ireland / Europe**
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tarun-Kumar-Arcot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in//tarun-kumar-arcot-81b119168//)  
+## 🛠️ Tech Stack
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tarun-Kumar-Arcot)  
+### 💻 Languages & Frameworks
 
-![Profile views](https://gpvc.arturio.dev/Tarun-Kumar-Arcot)  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs" />
+</p>
+
+### ☸️ Containers & Cloud-Native
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,openshift" />
+</p>
+
+### ⚙️ DevOps & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ansible,helm,jenkins,git,bash" />
+</p>
+
+### 📊 Monitoring & Platforms
+
+* Prometheus • Grafana
+* Podman • CRC • MicroShift
+* RHEL • OpenJDK
+
+---
+
+## 🚀 Featured Projects
+
+> *(Pin these repos on your profile for maximum impact)*
+
+* 🔹 **OpenShift & Kubernetes Labs**
+  Hands-on YAMLs, troubleshooting scenarios, exam-style labs (CKA / DO280)
+
+* 🔹 **DevOps Automation Scripts**
+  Shell & Ansible automation for containerized workloads
+
+* 🔹 **Java & Spring Boot Practice**
+  Core Java fundamentals, REST APIs, configuration & debugging
+
+* 🔹 **GitOps / CI-CD Experiments**
+  Helm charts, pipelines, and deployment automation
+
+---
+
+## 🧾 Certifications
+
+* ✅ Red Hat Certified System Administrator (RHCSA)
+* ✅ Red Hat Certified Engineer (RHCE)
+* ✅ Certified Kubernetes Administrator (CKA)
+* ✅ Red Hat Certified Specialist in Containers (EX188)
+* 📖 OpenShift Administration II (DO280) – *In Progress*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarun-Kumar-Arcot&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kumar-Arcot&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/tarun-kumar-arcot-81b119168](https://www.linkedin.com/in/tarun-kumar-arcot-81b119168)
+* 📧 **Email:** *(add your professional email here)*
+* 📁 **Portfolio (Coming Soon):** GitHub-based DevOps portfolio
+
+---
+
+## 🧠 Current Focus
+
+* 📌 Advanced OpenShift (DO280, EX380)
+* 📌 GitOps & Platform Engineering
+* 📌 SRE fundamentals (observability, reliability, automation)
+
+---
+
+⭐ *If you find my work useful, feel free to star or fork my repositories!*
+
+---
+
+## 🔥 Next Recommended Enhancements (Optional)
+
+If you want, I can also:
+
+1. ✅ Suggest **which exact repos to pin**
+2. 📝 Rewrite **README templates for each project**
+3. 📦 Create a **DevOps portfolio repo structure**
+4. 🌍 Design a **GitHub-hosted personal website**
+5. 🎯 Align your GitHub with **SRE / DevOps job descriptions**
+
+Just tell me what you want next — we’ll make your GitHub **interview-ready** 🚀
