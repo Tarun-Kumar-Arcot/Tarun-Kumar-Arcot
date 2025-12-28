@@ -1,16 +1,3 @@
-Awesome 👍
-Here’s a **fully customized, recruiter-ready GitHub Profile README** tailored specifically for **you** — your Red Hat background, Kubernetes/OpenShift focus, and DevOps/SRE ambitions.
-
-You can **copy-paste this directly** into a repo named exactly:
-
-```
-Tarun-Kumar-Arcot
-```
-
-and GitHub will auto-render it on your profile.
-
----
-
 # 👋 Hi, I’m Tarun Kumar Arcot
 
 🚀 **DevOps / Cloud-Native Engineer**
