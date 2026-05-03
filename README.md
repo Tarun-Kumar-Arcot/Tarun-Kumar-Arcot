@@ -1,118 +1,86 @@
-# 👋 Hi, I’m Tarun Kumar Arcot
+# Hey, I'm Tarun 👋
 
-🚀 **DevOps / Cloud-Native Engineer**
-💼 Middleware Engineer @ Red Hat
-🎓 RHCSA • RHCE • CKA • EX188 | OpenShift (DO280 in progress)
+I'm a Support Engineer at **Red Hat** with 2.5+ years in the trenches of enterprise middleware and cloud-native infrastructure. I spend my days debugging production JBoss EAP deployments, untangling Kubernetes issues, and helping teams get OpenShift working the way it should.
 
-I specialize in **Kubernetes, OpenShift, containers, and Red Hat middleware platforms**, with hands-on experience troubleshooting production-grade systems and building cloud-native solutions.
+I'm not just fixing tickets — I'm building things on the side, chasing certifications, and actively looking for **remote DevOps / Platform Engineering roles** where I can go deeper on automation and reliability engineering.
 
 ---
 
-## 🧑‍💻 About Me
+## What I Actually Work With
 
-* 🔧 2.5+ years at **Red Hat** supporting **JBoss EAP, Data Grid (Infinispan), OpenShift & Kubernetes**
-* ☸️ Strong hands-on with **OCP 4.x, CRC, Podman, Helm, Ansible**
-* 📚 Certification-driven learner aiming for **SRE / DevOps / Platform Engineer** roles
-* 🌍 Exploring opportunities in **Ireland / Europe**
+These aren't buzzwords I listed from a job description. These are the things I use week to week.
 
----
+**Middleware & Runtime**
+`JBoss EAP` `WildFly` `Data Grid (Infinispan)` `Java EE` `OpenJDK` `Spring Boot`
 
-## 🛠️ Tech Stack
+**Containers & Orchestration**
+`Kubernetes (OCP 4.x)` `OpenShift` `Docker` `Podman` `CRC` `MicroShift` `Helm`
 
-### 💻 Languages & Frameworks
+**Automation & Tooling**
+`Ansible` `Bash` `Git` `Jenkins`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs" />
-</p>
+**Monitoring**
+`Prometheus` `Grafana`
 
-### ☸️ Containers & Cloud-Native
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,openshift" />
-</p>
-
-### ⚙️ DevOps & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ansible,helm,jenkins,git,bash" />
-</p>
-
-### 📊 Monitoring & Platforms
-
-* Prometheus • Grafana
-* Podman • CRC • MicroShift
-* RHEL • OpenJDK
+**OS & Platforms**
+`RHEL` `Linux`
 
 ---
 
-## 🚀 Featured Projects
+## Certifications
 
-> *(Pin these repos on your profile for maximum impact)*
+These are earned, not listed for padding.
 
-* 🔹 **OpenShift & Kubernetes Labs**
-  Hands-on YAMLs, troubleshooting scenarios, exam-style labs (CKA / DO280)
-
-* 🔹 **DevOps Automation Scripts**
-  Shell & Ansible automation for containerized workloads
-
-* 🔹 **Java & Spring Boot Practice**
-  Core Java fundamentals, REST APIs, configuration & debugging
-
-* 🔹 **GitOps / CI-CD Experiments**
-  Helm charts, pipelines, and deployment automation
+| Badge | Cert |
+|---|---|
+| ✅ | Red Hat Certified System Administrator (RHCSA) |
+| ✅ | Red Hat Certified Engineer (RHCE) |
+| ✅ | Certified Kubernetes Administrator (CKA) |
+| ✅ | Red Hat Specialist in Containers (EX188) |
+| ✅ | OpenShift Administration II (DO280) |
 
 ---
 
-## 🧾 Certifications
+## What I'm Building
 
-* ✅ Red Hat Certified System Administrator (RHCSA)
-* ✅ Red Hat Certified Engineer (RHCE)
-* ✅ Certified Kubernetes Administrator (CKA)
-* ✅ Red Hat Certified Specialist in Containers (EX188)
-* 📖 OpenShift Administration II (DO280) – *In Progress*
+**[quarkus-gitops](https://github.com/Tarun-Kumar-Arcot/quarkus-gitops)** · `Quarkus` `Argo CD` `GitHub Actions` `Kubernetes` `Docker`
+End-to-end GitOps delivery: GitHub Actions CI (build → test → containerise) + Argo CD continuous deployment with automated sync and rollback to Kubernetes.
 
----
+**[hello-gitops](https://github.com/Tarun-Kumar-Arcot/hello-gitops)** · `Argo CD` `Kubernetes` `YAML`
+Declarative GitOps workflow — automated sync, rollback, and multi-environment promotion managed from a single Git repository.
 
-## 📊 GitHub Stats
+**[kubernetes](https://github.com/Tarun-Kumar-Arcot/kubernetes)**
+Additional learning material and labs on Kubernetes — forked from networknuts, extended with my own practice scenarios.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarun-Kumar-Arcot&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+**[postgres-operator-examples](https://github.com/Tarun-Kumar-Arcot/postgres-operator-examples)**
+Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data — useful reference for stateful workloads on Kubernetes.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kumar-Arcot&theme=github-dark&hide_border=true" />
-</p>
+**[DO188-Content](https://github.com/Tarun-Kumar-Arcot/DO188-Content)**
+Course content and lab work from Red Hat's DO188 (containers & OpenShift) training.
 
 ---
 
-## 📫 Let’s Connect
+## What I'm Focused on Right Now
 
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/tarun-kumar-arcot-81b119168](https://www.linkedin.com/in/tarun-kumar-arcot-81b119168)
-* 📧 **Email:** *(add your professional email here)*
-* 📁 **Portfolio (Coming Soon):** GitHub-based DevOps portfolio
-
----
-
-## 🧠 Current Focus
-
-* 📌 Advanced OpenShift (DO280, EX380)
-* 📌 GitOps & Platform Engineering
-* 📌 SRE fundamentals (observability, reliability, automation)
+- Targeting **EX380** (OpenShift Administration Expert)
+- Getting hands-on with **GitOps** — Argo CD, Tekton pipelines
+- Learning SRE fundamentals: error budgets, SLOs, observability stacks
+- Building a public portfolio that actually has code in it
 
 ---
 
-⭐ *If you find my work useful, feel free to star or fork my repositories!*
+## Open to Work
+
+I'm looking for **remote roles** in:
+- DevOps Engineering
+- Platform / Site Reliability Engineering
+- Cloud-Native / OpenShift consulting
+
+If you're hiring or have something interesting, let's talk.
+
+📧 **Email:** reachout2tarun@gmail.com
+🔗 **LinkedIn:** [linkedin.com/in/tarun-kumar-arcot-81b119168](https://www.linkedin.com/in/tarun-kumar-arcot-81b119168)
 
 ---
 
-## 🔥 Next Recommended Enhancements (Optional)
-
-If you want, I can also:
-
-1. ✅ Suggest **which exact repos to pin**
-2. 📝 Rewrite **README templates for each project**
-3. 📦 Create a **DevOps portfolio repo structure**
-4. 🌍 Design a **GitHub-hosted personal website**
-5. 🎯 Align your GitHub with **SRE / DevOps job descriptions**
-
-Just tell me what you want next — we’ll make your GitHub **interview-ready** 🚀
+*Based in India — open to remote globally.*
